@@ -1,3 +1,1 @@
-# Testing binder/colab integrations
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fmonteneucm/bindertest/HEAD)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fmonteneucm/bindertest/blob/main/Test.ipynb)
+This contains the information needed by Binder (www.mybinder.org) to build a certain environment. This will be used to run the notebooks in repository: MIS_practicas
