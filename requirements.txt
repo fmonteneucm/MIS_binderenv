@@ -1,4 +1,7 @@
 numpy==1.21.5
 matplotlib==3.5.1
 astropy==5.0.4
+scipy==1.7.3
+pandas==1.4.2
+scikit-learn=1.0.2
 nbgitpuller
